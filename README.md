@@ -1,1 +1,0 @@
-# OOP22_Snigur
